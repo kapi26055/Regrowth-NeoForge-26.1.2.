@@ -1,2 +1,2 @@
-# Regrowth-NeoForge-26.1.2.
-Regrowth-NeoForge-26.1.2.
+# Regrowth
+Minecraft mod to regrow the wild as animals move around.
